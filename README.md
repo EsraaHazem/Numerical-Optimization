@@ -1,12 +1,13 @@
 # Numerical-Optimization
 # The Note books 
  include the implementation of the following optimizers :
- #momentum
  
- #Nesterov
+ -momentum
  
- #adagrad
+ -Nesterov
  
- #RMSprop
+ -adagrad
  
- #adam
+ -RMSprop
+ 
+ -adam
